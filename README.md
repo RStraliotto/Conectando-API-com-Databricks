@@ -1,11 +1,8 @@
-# Conectando-API-com-Databricks
-Exemplo Conectando a API em nosso Data Lakehouse e Orquestração das atividades via Workflow
-
-# Projeto de Ingestão de Dados da API Pokémon
+# Projeto de Ingestão de Dados da API Pokémon com Databricks
 
 ## Descrição
 
-Este projeto visa a ingestão de dados da API Pokémon para um Data Lakehouse usando Databricks. Inclui a conexão com a API, armazenamento de dados no formato Delta, e criação de tabelas para análise de negócios. O projeto também demonstra o uso de técnicas de programação multithread e a biblioteca `tqdm` para visualização do progresso.
+Este projeto visa a ingestão de dados da API Pokémon para um Data Lakehouse usando Databricks. Inclui a conexão com a API, armazenamento de dados no formato Delta, e criação de tabelas para análise de negócios. O projeto também demonstra o uso de técnicas de programação multithread, Orquestração das atividades via Workflow e a biblioteca `tqdm` para visualização do progresso.
 
 ## Estrutura do Projeto
 
